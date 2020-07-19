@@ -2,7 +2,6 @@
 - Growth hacking
 - Data analysis
 
-
 <div aligin=center>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minsoo-kim-8083a2165/)](https://www.linkedin.com/in/minsoo-kim-8083a2165/)  
